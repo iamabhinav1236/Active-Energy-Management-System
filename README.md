@@ -1,6 +1,5 @@
 # Active Energy — Smart Energy Management Platform
 
-**Team:** ActiveCoder · **Event:** Code-X-Novas Innovathon 2026  
 **Problem statement:** A Self-Learning, Negotiation-Based Multi-Agent AI Platform for Smart Energy Management
 
 A runnable full-stack prototype based on the submitted presentation. It demonstrates a multi-agent energy workflow, transparent negotiation, explainable recommendations, human approval/edit/reject controls, configurable energy settings, persistent plan history, and a lightweight feedback-driven learning loop.
